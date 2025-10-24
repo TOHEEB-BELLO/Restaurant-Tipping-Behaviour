@@ -1,5 +1,6 @@
 # 🍽 Restaurant Tipping Behaviour Analysis
 
+![Image](https://github.com/user-attachments/assets/989afe4a-228c-409a-8606-39b54da522f1)
 ## 💡 Project Overview
 This project investigates the factors influencing how restaurant customers tip, focusing on *gender, **meal time, **day of the week, and **group size*.  
 The goal was to uncover *patterns in tipping behavior* and understand what drives customers to give higher or lower tips.
